@@ -4,5 +4,4 @@ public class program15 {
         int z = x % y * 2;
         System.out.println("z = " + z);
     }
-    
 }
